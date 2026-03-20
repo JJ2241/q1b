@@ -1,6 +1,6 @@
-# MLOps Project – Practical 8
+# MLOps Project – Question 1B
 
-This project demonstrates github 
+This project demonstrates github Actions
 
 ## How to run
 1 - Run the training script : python train.py
